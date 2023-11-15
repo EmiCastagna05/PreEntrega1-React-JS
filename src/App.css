@@ -1,0 +1,27 @@
+body {
+  background-color: #384A54;
+}
+
+.container {
+  margin: 0;
+}
+
+.greetingH2 {
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.cartWidgetContainer {
+  display: flex;
+}
+
+.cartWidgetButton {
+  border: none;
+  background-color: transparent;
+  color: white;
+}
+
+.cartWidgetNumber {
+  color: white;
+}
